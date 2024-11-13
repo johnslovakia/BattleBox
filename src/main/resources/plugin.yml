@@ -1,0 +1,4 @@
+name: BattleBox
+version: '${project.version}'
+main: cz.johnslovakia.battlebox.BattleBox
+api-version: '1.21'
